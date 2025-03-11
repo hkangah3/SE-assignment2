@@ -3,8 +3,11 @@ This project demonstrates version control using GitHub as we utilize the reposit
 
 # Installation Instructions
 1: Download Git
+
 2: Clone the repository: https://github.com/your-username/SE-assignment2.git will download the repository to the local machine (terminal or git bash)
+
 3: Type cd SE-assignment2 into the local machine
+
 4: Verify git configuration with git config --global user.name "Your Name", and git config --global user.email "youremail@pvamu.edu"
 
 # Usage examples:
