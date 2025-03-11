@@ -12,9 +12,13 @@ This project demonstrates version control using GitHub as we utilize the reposit
 
 # Usage examples:
 E1: Hello from Program
+
 Input: a name from the user, in this ex., Bobby
+
 Output: "Hello, Bobby!"
 
 E2: Handling Empty Input
+
 Input: user did not enter a name.
+
 Output: Make an error statement that executes whenever the user does not provide a name. Will continue printing the following statement until the user has exit the program or provides an input. "I need a name! Please try again. Enter your name: "
