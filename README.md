@@ -1,7 +1,11 @@
-# SE-assignment2
+# Project Description
 
+This project demonstrates version control using GitHub as we utilize the repository to track all changes, commit as a way to record specific changes, branching to isolate work and to evade the main code, merging to combine branches to another, pull requests to merge a feature into main, merge conflicts such as multiple branches wishing to alter the same branch, and collabortation with my peers.
 -----------------------------------------------------------------------------------------------------------
-Within this project, main branch contains the print statetment of "Hello, World!".
+# 
+-----------------------------------------------------------------------------------------------------------
+Three branches:
+(default) main contains the print statetment of "Hello, World!".
 feature-1 also executes a "Hello" print statement, but requires user input.
 feature-2 also executes a "Hello" print statement. This will play a role in our merge conflict.
 
