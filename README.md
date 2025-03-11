@@ -17,6 +17,7 @@ Input: a name from the user, in this ex., Bobby
 
 Output: "Hello, Bobby!"
 
+
 E2: Handling Empty Input
 
 Input: user did not enter a name.
