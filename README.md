@@ -1,17 +1,17 @@
 # Project Description
-
 This project demonstrates version control using GitHub as we utilize the repository to track all changes, commit as a way to record specific changes, branching to isolate work and to evade the main code, merging to combine branches to another, pull requests to merge a feature into main, merge conflicts such as multiple branches wishing to alter the same branch, and collabortation with my peers.
------------------------------------------------------------------------------------------------------------
-# 
------------------------------------------------------------------------------------------------------------
-Three branches:
-(default) main contains the print statetment of "Hello, World!".
-feature-1 also executes a "Hello" print statement, but requires user input.
-feature-2 also executes a "Hello" print statement. This will play a role in our merge conflict.
 
-There is a merge conflict when Git sees that two branches want to change the same file.
+# Installation Instructions
+1: Download Git
+2: Clone the repository: https://github.com/your-username/SE-assignment2.git will download the repository to the local machine (terminal or git bash)
+3: Type cd SE-assignment2 into the local machine
+4: Verify git configuration with git config --global user.name "Your Name", and git config --global user.email "youremail@pvamu.edu"
 
-First pull request to merge feature-1 to main will be from a classmate.
-Second pull request to merge featire-2 to main will be from me.
-GitHub will highlight the conflict.
-Conflict can be manually resolved in the repository.
+# Usage examples:
+E1: Hello from Program
+Input: a name from the user, in this ex., Bobby
+Output: "Hello, Bobby!"
+
+E2: Handling Empty Input
+Input: user did not enter a name.
+Output: Make an error statement that executes whenever the user does not provide a name. Will continue printing the following statement until the user has exit the program or provides an input. "I need a name! Please try again. Enter your name: "
