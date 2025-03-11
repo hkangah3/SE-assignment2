@@ -10,6 +10,8 @@ This project demonstrates version control using GitHub as we utilize the reposit
 
 4: Verify git configuration with git config --global user.name "Your Name", and git config --global user.email "youremail@pvamu.edu"
 
+5: Confirm being on the latest version of the project/main through git checkout main
+
 # Usage examples:
 E1: Hello from Program
 
