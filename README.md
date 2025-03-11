@@ -1,5 +1,6 @@
 # SE-assignment2
 
+-----------------------------------------------------------------------------------------------------------
 Within this project, main branch contains the print statetment of "Hello, World!".
 feature-1 also executes a "Hello" print statement, but requires user input.
 feature-2 also executes a "Hello" print statement. This will play a role in our merge conflict.
